@@ -402,7 +402,7 @@ fieldset[disabled] .btn-default.active {
 }
 
 .btn-primary {
-    border-color: #f05f40;
+    border-color: #045F84;
     color: #fff;
     background-color: #f05f40;
     -webkit-transition: all .35s;
@@ -416,7 +416,7 @@ fieldset[disabled] .btn-default.active {
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
-    border-color: #ed431f;
+    border-color: #045F84;
     color: #fff;
     background-color: #045F84;
 }
